@@ -9,8 +9,8 @@ const List: React.FC = () => {
 
     const options = [
         { value: 'Mauricio', label: 'Mauricio' },
-        { value: 'Caqui', label: 'Caqui' },
-        { value: 'Pera', label: 'Pera' }
+        { value: 'Paula', label: 'Paula' },
+        { value: 'Cláudia', label: 'Cláudia' }
     ];
 
     return (
