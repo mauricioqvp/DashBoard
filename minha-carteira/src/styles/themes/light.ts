@@ -1,4 +1,4 @@
-export const dark =  {
+export const light =  {
     title: 'light',
 
     colors: {

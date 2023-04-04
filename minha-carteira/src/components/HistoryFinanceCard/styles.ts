@@ -18,7 +18,7 @@ export const Container = styled.li`
     align-items: center;
 
     cursor: pointer;
-    transition: all .3s;
+    transition: all 0.3s;
 
     position: relative;
 
