@@ -6,7 +6,7 @@ import { Container } from './styles';
 const Dashboard: React.FC = () => {
 
     const options = [
-        { value: 'Mauricio', label: 'MauricioX'},
+        { value: 'Mauricio', label: 'Mauricio'},
         { value: 'Caqui', label: 'Caqui'},
         { value: 'Pera', label: 'Pera'}
     ]
